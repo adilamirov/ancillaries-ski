@@ -1,0 +1,7 @@
+{
+  "error": {
+	"code": "conversation.not.found",
+	"message": "Давайте начнем новый поиск и обновим результаты."
+  },
+  "shoppingCart": null
+}
